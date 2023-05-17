@@ -18,11 +18,7 @@ By establishing a global repository for blockchain developers, developers from d
 
 - To know more about Tokenview API, please contact:
 
-  [Telegram](https://t.me/+3-8O9MNLjAI4ZTI9)：
-
-  ![](image/Telegram.png)
-
-  
+  [Tokenview Developer Telegram](https://t.me/+hnSqLa49eHA5MGU1)
 
 
 
