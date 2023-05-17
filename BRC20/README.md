@@ -30,6 +30,8 @@ Tokenview has put together a list of tools for both BRC-20 and Ordinals:
 
 [https://mempool.space/zh/](https://mempool.space/zh/])
 
+[https://btc.nftscan.com](https://btc.nftscan.com/)
+
  #### Market Data   
 
 [https://ordspace.org/brc20](https://ordspace.org/brc20)
