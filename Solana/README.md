@@ -26,12 +26,12 @@
 
 ### -Dapps
 
-- **Wormhole**: Cross-chain bridge，https://www.portalbridge.com/，https://allbridge.io/
-- **Saber**: relatively stable currency pair trading，https://saber.so/
-- **Sunny**: revenue aggregation，https://app.sunny.ag/
-- **Serum**: decentralized trading system，https://projectserum.com/
-- **Raydium**: Central limit order book, providing liquidity and orders for the entire Serum ecosystem，https://raydium.io/
-- **Solend**: borrow，https://solend.fi/
+- **Wormhole**: *Cross-chain bridge*，https://www.portalbridge.com/，https://allbridge.io/
+- **Saber**: *relatively stable currency pair trading*，https://saber.so/
+- **Sunny**: *revenue aggregation*，https://app.sunny.ag/
+- **Serum**: *decentralized trading system*，https://projectserum.com/
+- **Raydium**: *Central limit order book, providing liquidity and orders for the entire Serum ecosystem*，https://raydium.io/
+- **Solend**: *borrow*，https://solend.fi/
 
 ------
 
