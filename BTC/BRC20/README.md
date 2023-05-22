@@ -78,6 +78,8 @@ Tokenview has put together a list of tools for both BRC-20 and Ordinals:
 
 [https://bitmart.com](https://bitmart.com)
 
+------
+
  ### Ordinals  
 
 #### Ordinals doc 
@@ -137,3 +139,37 @@ https://openordex.org/
  #### Ordinal Inscription Cost Calculator 
 
 [https://hub.cryptocell.guru/ordinalsturbo/](https://hub.cryptocell.guru/ordinalsturbo/)
+
+------
+
+### ORC-20
+
+https://twitter.com/Ordinals_Orc20
+
+https://docs.orc20.org/
+
+#### what is orc-20
+
+https://academy.binance.com/en/glossary/orc-20-tokens
+
+https://thebitcoinmanual.com/articles/orc-20-tokens/
+
+https://www.coincarp.com/learn/what-is-orc-20-tokens/
+
+#### wallets
+
+https://chrome.google.com/webstore/detail/satproof-wallet/kjlopdigmfmlkmokmkjjeahkhaianbck
+
+#### orc-20 analysis
+
+https://dune.com/ordinalstats/orc-20
+
+https://thebittimes.com/token-orc20-BSC-0x37A467834064AA9C4bBcBdc2903BB4313606DACC.html
+
+#### mint
+
+https://inscribe.ordswap.io/
+
+#### VS brc-20
+
+https://coin360.com/news/orc-20-vs-brc-20-token-bitcoin
