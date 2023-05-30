@@ -8,8 +8,7 @@ By establishing a global repository for blockchain developers, developers from d
 
 - Providing more blockchain talent resources for enterprises and individuals.
 
-
-[Blockchaindocs](https://github.com/Tokenview/blockchaindocsis) being improved and changed over time through the contributions of blockchain members who submit content, give feedback, or volunteer their time to manage its evolution. If you’re interested in helping to improve blockchaindocs, find out how to contribute.
+[Blockchaindocs](https://github.com/Tokenview/blockchaindocs) is being improved and changed over time through the contributions of blockchain members who submit content, give feedback, or volunteer their time to manage its evolution. If you’re interested in helping to improve blockchaindocs, find out how to contribute.
 
   ### How to Contribute
 
